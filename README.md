@@ -33,7 +33,7 @@ Google Colab with NVCC Compiler
 
 ## PROGRAM:
 
-```
+```C
 !pip install git+https://github.com/andreinechaev/nvcc4jupyter.git
 %load_ext nvcc4jupyter
 
